@@ -5,8 +5,6 @@
   <img src="https://media.tenor.com/BqbIhT4Mb7cAAAAC/programming.gif" width="350">
 </p>
 
----
-
 ## 👨‍💻 About Me
 
 - Full-stack & cloud developer building meaningful tech  
@@ -52,16 +50,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=imskumarj&show_icons=true&theme=tokyonight&hide_border=true">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imskumarj&layout=compact&theme=tokyonight&hide_border=true">
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=imskumarj&theme=tokyonight&hide_border=true" height="180">
-</p>
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420">
 </p>
 
 # 🏅 Highlights
@@ -73,3 +62,4 @@
 - Published **novel** & **research paper**  
 - Organizer of hackathons  
 - Community Moderator — *Reskilll, Azure Developer Community*  
+
