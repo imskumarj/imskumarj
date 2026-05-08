@@ -8,10 +8,10 @@
 ## 👨‍💻 About Me
 
 - Full-stack & cloud developer building meaningful tech  
-- Currently working on **TheYouthTalks**  
+- Currently working on **Gridixa**  
 - Exploring: **AWS, GCP, Distributed Systems, AI Agents**  
 - Portfolio → https://imskumarj.vercel.app  
-- Blogs → https://imskumarj.blogspot.com  
+- Blogs → https://imskumarj.vercel.app  
 - Email → **imskumarj@gmail.com**  
 - Fun fact → *Americano is my debugging fuel* ☕  
 
